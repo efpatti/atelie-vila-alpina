@@ -2,7 +2,7 @@
 
 ## Como iniciar o projeto?
 
-### Abra um terminal
+### Após clonar o repositório, abra um terminal
 
 ```
 npm install
