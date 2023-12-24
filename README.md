@@ -5,6 +5,7 @@
 ### Após clonar o repositório, abra um terminal
 
 ```
+cd backend
 npm install
 npm i
 npm start
@@ -13,7 +14,8 @@ npm start
 ### Abra outro terminal (não feche o outro):
 
 ```
-cd store
+cd ..
+cd frontend
 npm install
 npm i
 npm start
