@@ -6,7 +6,7 @@
 
 ```
 npm install
-npm install cors express stripe
+npm i
 npm start
 ```
 
@@ -15,6 +15,6 @@ npm start
 ```
 cd store
 npm install
-npm install @testing-library/jest-dom @testing-library/react @testing-library/user-event react-bootstrap bootstrap react-bootsrap-icons react-dom react-router-dom react-scripts web-vitals
+npm i
 npm start
 ```
